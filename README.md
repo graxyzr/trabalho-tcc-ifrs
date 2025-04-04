@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Objetivo  
-Desenvolver um aplicativo móvel que capture, processe e exiba dados do veículo, permitindo otimização de desempenho em competições.  
+Desenvolver uma interface que capture, processe e exiba dados do veículo, permitindo otimização de desempenho em competições.  
 
 ---
 
