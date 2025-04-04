@@ -1,8 +1,39 @@
-# TCC---IFRS
-Trabalho de Conclusão de Curso (TCC)
+# Trabalho de Conclusão de Curso - Técnico em Informática para Internet Integrado ao Ensino Médio (IFRS - Campus Rio Grande)
 
-Desenvolvido como parte do curso técnico integrado em Informática para Internet no IFRS - Campus Rio Grande.
+### Autores:
+- Greice Braga Pereira (Dev. Back-End)
+- Pedro Henrique Rocha Oliveira (Dev. Front-End)
+- Eduardo Wenzel Brião (Orientador)
+- Serguei Nogueira da Silva (Co-Orientador)
 
-Desenvolvedores:
-- Pedro Henrique Rocha Oliveira;
-- Greice Braga Pereira.
+# 📱 Interface de Monitoramento de Dados - IFECO  
+**Software para acompanhamento em tempo real do protótipo de eficiência energética da equipe IFECO.**  
+
+---
+
+## 🎯 Objetivo  
+Desenvolver um aplicativo móvel que capture, processe e exiba dados do veículo, permitindo otimização de desempenho em competições.  
+
+---
+
+## 📊 Funcionalidades  
+
+### 🛠️ **Dados Monitorados**  
+- Velocidade  
+- Temperatura  
+- Tensão  
+- Corrente
+
+### 📱 **Telas**  
+| Tela               | Descrição                                  |  
+|--------------------|-------------------------------------------|  
+| **Principal**      | Velocidade atual + consumo (kWh/h)        |  
+| **Conexão Wi-Fi**  | Configuração e status da conexão          |  
+| **Configurações**  | Personalização de alertas e parâmetros    |  
+| **Gráficos**       | Variação histórica dos dados              |  
+| **Histórico**      | Registro de sessões anteriores            |  
+
+### ⚡ **Processamento**  
+- Cálculo automático de **kWh/h** com base nos dados do hardware.  
+
+---
