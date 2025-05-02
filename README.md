@@ -7,7 +7,7 @@
 - Serguei Nogueira da Silva (Co-Orientador)
 
 # 📱 Interface de Monitoramento de Dados - IFECO  
-**Software para acompanhamento em tempo real do protótipo de eficiência energética da equipe IFECO.**  
+**Software para acompanhamento de dados do protótipo de eficiência energética da equipe IFECO.**  
 
 ---
 
